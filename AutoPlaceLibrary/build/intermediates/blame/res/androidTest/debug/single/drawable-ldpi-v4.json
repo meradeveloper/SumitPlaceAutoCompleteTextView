@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\DemoLibrary\\AutoPlaceLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\pacv_powered_by_google_on_non_white.png",
+        "source": "E:\\DemoLibrary\\AutoPlaceLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\pacv_powered_by_google_on_non_white.png"
+    },
+    {
+        "merged": "E:\\DemoLibrary\\AutoPlaceLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\pacv_powered_by_google_on_white.png",
+        "source": "E:\\DemoLibrary\\AutoPlaceLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\pacv_powered_by_google_on_white.png"
+    }
+]
